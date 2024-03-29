@@ -1,0 +1,1 @@
+Isso é só um CRUD em Node.js feito na unha, sem instalação de dependências. É tão bobinho que só precisa de um `npm run dev` pra executar.
